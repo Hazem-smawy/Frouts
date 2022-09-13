@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2A31689428C8E043002AA2AB /* FruitDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A31689328C8E043002AA2AB /* FruitDetailView.swift */; };
+		2A31689628C8E3E1002AA2AB /* FruitHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A31689528C8E3E1002AA2AB /* FruitHeaderView.swift */; };
+		2A31689828C8E7B1002AA2AB /* SourseLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A31689728C8E7B1002AA2AB /* SourseLinkView.swift */; };
+		2A31689A28C8EA44002AA2AB /* FruitNutrientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A31689928C8EA44002AA2AB /* FruitNutrientsView.swift */; };
+		2A31689C28C8EE4F002AA2AB /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A31689B28C8EE4F002AA2AB /* SettingsView.swift */; };
+		2A31689E28C8F21F002AA2AB /* LableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A31689D28C8F21F002AA2AB /* LableView.swift */; };
+		2A6F3E2628C7AAE00065E884 /* FruitModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A6F3E2528C7AAE00065E884 /* FruitModel.swift */; };
+		2A6F3E2828C7ABF30065E884 /* FruitData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A6F3E2728C7ABF30065E884 /* FruitData.swift */; };
+		2A8E14D128C8FD8800543D86 /* SettingsRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8E14D028C8FD8800543D86 /* SettingsRowView.swift */; };
+		2AB4CF0228C7F36600D60CA1 /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AB4CF0128C7F36600D60CA1 /* FruitRowView.swift */; };
 		2ADD5CDD28C78F8300EC3D0D /* FroutsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ADD5CDC28C78F8300EC3D0D /* FroutsApp.swift */; };
 		2ADD5CDF28C78F8300EC3D0D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ADD5CDE28C78F8300EC3D0D /* ContentView.swift */; };
 		2ADD5CE128C78F8A00EC3D0D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2ADD5CE028C78F8A00EC3D0D /* Assets.xcassets */; };
@@ -14,6 +24,9 @@
 		2ADD5CEE28C78F8B00EC3D0D /* FroutsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ADD5CED28C78F8B00EC3D0D /* FroutsTests.swift */; };
 		2ADD5CF828C78F8B00EC3D0D /* FroutsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ADD5CF728C78F8B00EC3D0D /* FroutsUITests.swift */; };
 		2ADD5CFA28C78F8B00EC3D0D /* FroutsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ADD5CF928C78F8B00EC3D0D /* FroutsUITestsLaunchTests.swift */; };
+		2ADD5D0B28C793EF00EC3D0D /* FruitCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ADD5D0A28C793EF00EC3D0D /* FruitCardView.swift */; };
+		2ADD5D0D28C797EC00EC3D0D /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ADD5D0C28C797EC00EC3D0D /* StartButtonView.swift */; };
+		2ADD5D0F28C79B6B00EC3D0D /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ADD5D0E28C79B6B00EC3D0D /* OnboardingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +47,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2A31689328C8E043002AA2AB /* FruitDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitDetailView.swift; sourceTree = "<group>"; };
+		2A31689528C8E3E1002AA2AB /* FruitHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitHeaderView.swift; sourceTree = "<group>"; };
+		2A31689728C8E7B1002AA2AB /* SourseLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourseLinkView.swift; sourceTree = "<group>"; };
+		2A31689928C8EA44002AA2AB /* FruitNutrientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientsView.swift; sourceTree = "<group>"; };
+		2A31689B28C8EE4F002AA2AB /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		2A31689D28C8F21F002AA2AB /* LableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LableView.swift; sourceTree = "<group>"; };
+		2A6F3E2528C7AAE00065E884 /* FruitModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitModel.swift; sourceTree = "<group>"; };
+		2A6F3E2728C7ABF30065E884 /* FruitData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitData.swift; sourceTree = "<group>"; };
+		2A8E14D028C8FD8800543D86 /* SettingsRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsRowView.swift; sourceTree = "<group>"; };
+		2AB4CF0128C7F36600D60CA1 /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
 		2ADD5CD928C78F8300EC3D0D /* Frouts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Frouts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2ADD5CDC28C78F8300EC3D0D /* FroutsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FroutsApp.swift; sourceTree = "<group>"; };
 		2ADD5CDE28C78F8300EC3D0D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -44,6 +67,9 @@
 		2ADD5CF328C78F8B00EC3D0D /* FroutsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FroutsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2ADD5CF728C78F8B00EC3D0D /* FroutsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FroutsUITests.swift; sourceTree = "<group>"; };
 		2ADD5CF928C78F8B00EC3D0D /* FroutsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FroutsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2ADD5D0A28C793EF00EC3D0D /* FruitCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitCardView.swift; sourceTree = "<group>"; };
+		2ADD5D0C28C797EC00EC3D0D /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
+		2ADD5D0E28C79B6B00EC3D0D /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +97,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2A6F3E2328C7AAAB0065E884 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				2A6F3E2728C7ABF30065E884 /* FruitData.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		2A6F3E2428C7AAC00065E884 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				2A6F3E2528C7AAE00065E884 /* FruitModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 		2ADD5CD028C78F8300EC3D0D = {
 			isa = PBXGroup;
 			children = (
@@ -94,8 +136,10 @@
 		2ADD5CDB28C78F8300EC3D0D /* Frouts */ = {
 			isa = PBXGroup;
 			children = (
-				2ADD5CDC28C78F8300EC3D0D /* FroutsApp.swift */,
-				2ADD5CDE28C78F8300EC3D0D /* ContentView.swift */,
+				2A6F3E2428C7AAC00065E884 /* Model */,
+				2A6F3E2328C7AAAB0065E884 /* Data */,
+				2ADD5D0928C793AE00EC3D0D /* View */,
+				2ADD5D0628C7936100EC3D0D /* App */,
 				2ADD5CE028C78F8A00EC3D0D /* Assets.xcassets */,
 				2ADD5CE228C78F8A00EC3D0D /* Preview Content */,
 			);
@@ -125,6 +169,33 @@
 				2ADD5CF928C78F8B00EC3D0D /* FroutsUITestsLaunchTests.swift */,
 			);
 			path = FroutsUITests;
+			sourceTree = "<group>";
+		};
+		2ADD5D0628C7936100EC3D0D /* App */ = {
+			isa = PBXGroup;
+			children = (
+				2ADD5CDC28C78F8300EC3D0D /* FroutsApp.swift */,
+				2ADD5CDE28C78F8300EC3D0D /* ContentView.swift */,
+				2ADD5D0E28C79B6B00EC3D0D /* OnboardingView.swift */,
+				2A31689328C8E043002AA2AB /* FruitDetailView.swift */,
+				2A31689B28C8EE4F002AA2AB /* SettingsView.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		2ADD5D0928C793AE00EC3D0D /* View */ = {
+			isa = PBXGroup;
+			children = (
+				2ADD5D0A28C793EF00EC3D0D /* FruitCardView.swift */,
+				2ADD5D0C28C797EC00EC3D0D /* StartButtonView.swift */,
+				2AB4CF0128C7F36600D60CA1 /* FruitRowView.swift */,
+				2A31689528C8E3E1002AA2AB /* FruitHeaderView.swift */,
+				2A31689728C8E7B1002AA2AB /* SourseLinkView.swift */,
+				2A31689928C8EA44002AA2AB /* FruitNutrientsView.swift */,
+				2A31689D28C8F21F002AA2AB /* LableView.swift */,
+				2A8E14D028C8FD8800543D86 /* SettingsRowView.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,8 +328,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2A6F3E2828C7ABF30065E884 /* FruitData.swift in Sources */,
+				2A31689828C8E7B1002AA2AB /* SourseLinkView.swift in Sources */,
+				2A8E14D128C8FD8800543D86 /* SettingsRowView.swift in Sources */,
+				2ADD5D0B28C793EF00EC3D0D /* FruitCardView.swift in Sources */,
+				2A31689E28C8F21F002AA2AB /* LableView.swift in Sources */,
+				2AB4CF0228C7F36600D60CA1 /* FruitRowView.swift in Sources */,
+				2A31689A28C8EA44002AA2AB /* FruitNutrientsView.swift in Sources */,
+				2ADD5D0D28C797EC00EC3D0D /* StartButtonView.swift in Sources */,
+				2A31689428C8E043002AA2AB /* FruitDetailView.swift in Sources */,
+				2A31689628C8E3E1002AA2AB /* FruitHeaderView.swift in Sources */,
 				2ADD5CDF28C78F8300EC3D0D /* ContentView.swift in Sources */,
+				2ADD5D0F28C79B6B00EC3D0D /* OnboardingView.swift in Sources */,
+				2A6F3E2628C7AAE00065E884 /* FruitModel.swift in Sources */,
 				2ADD5CDD28C78F8300EC3D0D /* FroutsApp.swift in Sources */,
+				2A31689C28C8EE4F002AA2AB /* SettingsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -423,6 +507,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -452,6 +537,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
